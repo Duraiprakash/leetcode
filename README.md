@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Duraiprakash/leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Duraiprakash/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Duraiprakash/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Duraiprakash/leetcode/tree/master/0088-merge-sorted-array) |
 ## Trie
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Duraiprakash/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Duraiprakash/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Duraiprakash/leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
